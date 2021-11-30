@@ -10,6 +10,7 @@ io.github.interestinglab.waterdrop.filter.Join
 io.github.interestinglab.waterdrop.filter.Json
 io.github.interestinglab.waterdrop.filter.Kv
 io.github.interestinglab.waterdrop.filter.Lowercase
+io.github.interestinglab.waterdrop.filter.MapJson
 io.github.interestinglab.waterdrop.filter.Remove
 io.github.interestinglab.waterdrop.filter.Rename
 io.github.interestinglab.waterdrop.filter.Repartition
